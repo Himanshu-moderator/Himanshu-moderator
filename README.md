@@ -15,4 +15,4 @@ This GitHub is mostly personal projects and things I'm building while learning �
 - 📫 himanshu.work.io2@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/himanshu-chatterjee-386684267)
 
-Feel free to look around — always happy to talk product, mobile dev, or anything in between.
+Feel free to look around — always happy to talk product, mobile app dev, or anything in between.
