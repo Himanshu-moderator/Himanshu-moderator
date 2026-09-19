@@ -1,18 +1,33 @@
-### Hi, I'm Himanshu 👋
+<h1 align="center">Hey, I'm Himanshu 👋</h1>
+<p align="center">Aspiring Product Manager · ex-Flutter dev · always tinkering with something</p>
 
-I'm an aspiring **Product Manager**, currently going through Airtribe's PM program (PRD writing, roadmapping, prioritization, go-to-market). Before this, I spent time building mobile apps and running growth campaigns — so I tend to think about products from both the "how is this built" and "how does this grow" sides.
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanshu-chatterjee-386684267">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:himanshu.work.io2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Himanshu-moderator/myportfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-**A bit of background:**
-- B.C.A. in Cybersecurity & Forensics — spent a few years learning how systems break before learning how to build them well.
-- Interned as a **Flutter developer**, shipping two apps end-to-end (an AI assistant using Gemini, and a live-streaming social app) — architecture, UI, API integration, the whole thing.
-- Interned in **growth marketing**, running paid campaigns across LinkedIn, Instagram, and Facebook.
-- Now writing PM case studies (Ola Share, Zepto, YouTube Premium) and slowly building a habit of shipping small, real things instead of just reading about product work.
+<br/>
 
-**What I'm doing here:**
-This GitHub is mostly personal projects and things I'm building while learning — not a highlight reel. My portfolio site (pinned below) is the best place to see an overview of what I've worked on.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,firebase,git,github,notion,jira" />
+</p>
 
-**Reach me:**
-- 📫 himanshu.work.io2@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/himanshu-chatterjee-386684267)
+<p align="center"><sub>Product: PRD writing · Roadmapping · RICE/MoSCoW · User research &nbsp;|&nbsp; Built: an AI assistant (Gemini) and a live-streaming app in Flutter</sub></p>
 
-Feel free to look around — always happy to talk product, mobile dev, or anything in between.
+<br/>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Himanshu-moderator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-moderator&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Himanshu-moderator&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+</p>
