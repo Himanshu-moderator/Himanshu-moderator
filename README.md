@@ -8,7 +8,7 @@
   <a href="mailto:himanshu.work.io2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Himanshu-moderator/myportfolio">
+  <a href="https://himanshu-moderator.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
